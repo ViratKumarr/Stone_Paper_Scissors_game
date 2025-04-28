@@ -7,6 +7,7 @@ Virat Kumar
 - - -
 ## 📷 Screenshot
 Here's what the game looks like:
+![image alt](https://github.com/ViratKumarr/Stone_Paper_Scissors_game/blob/1c67d5792d8ecc7a5564cac8e3c0a31593ea63ab/rock_paper.png)
 
 - - -
 ## 🎮 Features
