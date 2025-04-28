@@ -12,11 +12,17 @@ Here's what the game looks like:
 ## 🎮 Features
 
 🎯 User can choose between Rock, Paper, or Scissors
+
 🤖 Computer randomly selects a choice
+
 🏆 Automatic winner detection
+
 🔁 Play again without refreshing
+
 🎨 Attractive and responsive UI using CSS
+
 ⚡ Fast and lightweight
+
 💻 Works on all modern browsers
 - - -
 ## 📁 Project Structure
