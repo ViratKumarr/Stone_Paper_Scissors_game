@@ -36,10 +36,15 @@ Stone_Paper_Scissors_Game/
 
 ## 🚀 How to Run
 1: Clone the repository:
-git clone https://github.com/ViratKumarr/Stone_Paper_Scissors_game.git
+   ```bash
+    git clone https://github.com/ViratKumarr/Stone_Paper_Scissors_game.git
+   ```
+
 
 2: Navigate to the project folder:
-cd Stone_Paper_Scissors_game
+   ```
+    cd Stone_Paper_Scissors_game
+   ```
 
 3: Open the index.html file in any modern web browser.
 
